@@ -1,0 +1,5 @@
+package com.jsb.api;
+
+public class Membership {
+
+}
