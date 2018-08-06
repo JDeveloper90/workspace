@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "563848384677",
+    "firebase_url": "https://waitaminute-9f4b2.firebaseio.com",
+    "project_id": "waitaminute-9f4b2",
+    "storage_bucket": "waitaminute-9f4b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563848384677:android:32beae8d33ab017b",
+        "android_client_info": {
+          "package_name": "com.jeon.waitaminute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563848384677-51eqelc71vvaujhsr74rvaqfnso8kv3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeon.waitaminute",
+            "certificate_hash": "f1d83e9e3869385748a8be14cf15658a6c303494"
+          }
+        },
+        {
+          "client_id": "563848384677-rb9mi0st4qj9ankp3kfkhqqf0c4q4eah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZMJRTkcjh7fTVfLSch7WcwfVKVE1PNYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563848384677-rb9mi0st4qj9ankp3kfkhqqf0c4q4eah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

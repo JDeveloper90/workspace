@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "11547879430",
+    "firebase_url": "https://waitaminute-7689d.firebaseio.com",
+    "project_id": "waitaminute-7689d",
+    "storage_bucket": "waitaminute-7689d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11547879430:android:32beae8d33ab017b",
+        "android_client_info": {
+          "package_name": "com.jeon.waitaminute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11547879430-6qk4ob3u14lvsiljr0u7gnmjr3gb7puj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQXxGcIX16J2zh8dueY9yn2_ExEJc8zdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
